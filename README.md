@@ -1,4 +1,4 @@
-echo "# File Reversal and Verification
+# **File Reversal and Verification**
 
 This project implements various file reversal and verification operations using system calls in C.
 
